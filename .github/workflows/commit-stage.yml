@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: erojas14ths/cf-config-service
+  IMAGE_NAME: erojas14ths/ms-catalog-service
   VERSION: latest
 
 jobs:
